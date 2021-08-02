@@ -4,9 +4,9 @@ This repo contains artifacts (Visio diagrams, etc) that are referenced in the [A
 
 ## Content
 
-| File             | Used in                                                                               |
-|------------------|---------------------------------------------------------------------------------------|
-| [./example.visx] | [/architecture/topic/item](https://docs.microsoft.com/azure/architecture/topic/item)  |
+| File                                       | Used in                                                                               |
+|--------------------------------------------|---------------------------------------------------------------------------------------|
+| [topic/example.visx](./topic.example.visx) | [/architecture/topic/item](https://docs.microsoft.com/azure/architecture/topic/item)  |
 
 ## Contributing
 
